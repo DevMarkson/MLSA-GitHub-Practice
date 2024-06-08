@@ -21,3 +21,8 @@
   <img src="https://github.com/microsoft.png" width="40px" height="40px" style="border-radius:50%"  />
   <a href="https://github.com/microsoft">Microsoft</a>
 </p>
+
+<p style="display: flex; align-items:center; gap:10px;">
+  <img src="https://github.com/SulaimonShittu.png" width="40px" height="40px" style="border-radius:50%"  />
+  <a href="https://github.com/SulaimonShittu">Sulaimon Shittu</a>
+</p>
