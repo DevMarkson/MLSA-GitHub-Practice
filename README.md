@@ -51,3 +51,8 @@
   <img src="https://github.com/ayoo5.png" width="40px" height="40px" style="border-radius:50%"  />
   <a href="https://github.com/ayoo5">Ayoo Popoola</a>
 </p>
+
+<p>
+  <img src="https://github.com/sulemana24.png" width="40px" height="40px" style="border-radius:50%"  />
+  <a href="https://github.com/sulemana24">Iddrisu Sulemana</a>
+</p>
